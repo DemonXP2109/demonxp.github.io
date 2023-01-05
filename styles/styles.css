@@ -50,9 +50,7 @@ body{
 }
 .list-container{
     width: 800px;
-    height: 1100px;
-    /* border: 1px solid; */
-    margin-bottom: 50px;
+    height: 1200px;
     flex-wrap: wrap;
     flex-direction: column;
 }
@@ -74,6 +72,7 @@ body{
     background-color: #212121;
     margin-left: 50px;
     border-radius: 32px;
+    margin-top: 75px;
 }
 .main-section{
     width: 90%;
@@ -177,4 +176,8 @@ main{
     font-size: 32px;
     line-height: 39px;
     color: #FFFFFF;
+}
+.date-head{
+    flex-direction: column;
+    flex-wrap: wrap;
 }
