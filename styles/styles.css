@@ -181,3 +181,10 @@ main{
     flex-direction: column;
     flex-wrap: wrap;
 }
+.mid li{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: justify;
+    color: #000000;
+}
